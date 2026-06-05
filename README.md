@@ -1,2 +1,2 @@
 # gnocchi-s-portfolio
-내 모든 것을 써내려가기.
+내 모든 것을 담아내기.
